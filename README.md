@@ -29,6 +29,7 @@ Browse platforms and choose where to launch your product:
 | [The Next AI Tool](https://thenextaitool.com/) | The Next AI Tool |
 | [AI Top Rank](https://www.aitoprank.com/pricing) | Discover AI Tools Weekly. |
 | [SaaS Surf](https://saassurf.com/submit-a-product#submit) | Curated tools and products for SaaS enthusiasts. |
+| [SaaSCity](https://saascity.io/submit) | Gamified SaaS directory where each listing becomes a building on an interactive isometric city map. |
 | [AI Tools Hunter](https://aitoolshunter.com/panel/create/) | Explore a vast collection of AI tools. |
 | [Apps and Websites](https://landing.mycloudmedia.co.uk/apps-and-websites-submit-ai-or-saas-tool/new-submission.html) | AI &amp; SaaS Tools Directory - appsandwebsites.com |
 | [faind.ai](https://faind.ai/submit-a-tool/) | AI tools directory and comparison platform. |
