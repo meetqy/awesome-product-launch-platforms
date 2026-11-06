@@ -21,6 +21,7 @@ Browse platforms and choose where to launch your product:
 | [Getworm](https://getworm.com/submit-startup) |  |
 | [Inouts](https://www.inouts.com/add-service) | Find online tools by outcomes |
 | [Makerpeak](https://makerpeak.com/profile/products/submit) |  |
+| [MeetNewAI](https://meetnewai.com/) | Free bilingual directory of AI tools, AI games and MCP servers |
 | [Pulse](https://pulse.welodge.co.zw/app/startups/new) | Discover the Latest Startups |
 | [seos.ai](https://seos.ai/add-tool/) | AI SEO tool directory and knowledge base. |
 | [Tools.so](https://tools.so/submit) | Curated directory of the best tools online. |
